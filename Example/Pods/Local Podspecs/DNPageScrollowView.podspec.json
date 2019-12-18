@@ -1,0 +1,27 @@
+{
+  "name": "DNPageScrollowView",
+  "version": "1.0.0.0",
+  "summary": "A short description of DNPageScrollowView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DoNewsCode/DNPageScrollowView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "418589912@qq.com": "418589912@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/DoNewsCode/DNPageScrollowView.git",
+    "tag": "1.0.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DNPageScrollowView/Classes/**/*",
+  "dependencies": {
+    "DNCommonKit/DNLayout": [
+
+    ]
+  }
+}

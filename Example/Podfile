@@ -1,0 +1,16 @@
+source 'https://github.com/DoNewsCode/DNSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DNPageScrollowView_Example' do
+  pod 'DNPageScrollowView', :path => '../'
+
+  target 'DNPageScrollowView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
